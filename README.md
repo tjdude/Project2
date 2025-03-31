@@ -38,10 +38,10 @@ AI 기반 두피 이미지를 분석하여, 현재 탈모 상태를 3가지 기�
  
 ### 📊 결과
 - 시스템 아키텍처
-  ![image.png](attachment:04128afd-f7b8-4947-877a-b8e450f1e73d:image.png)
+  ![시스템](attachment:04128afd-f7b8-4947-877a-b8e450f1e73d:image.png)
 
 - 모델 아키텍처
-  ![image.png](attachment:375e6f25-e0a5-4b05-be4e-a276de542bbd:image.png)
+  ![모델](attachment:375e6f25-e0a5-4b05-be4e-a276de542bbd:image.png)
 
 ### 📊 구현 결과
 *기능 1,2*
