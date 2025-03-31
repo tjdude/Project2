@@ -48,4 +48,5 @@ AI 기반 두피 이미지를 분석하여, 현재 탈모 상태를 3가지 기�
   ![시스템](https://github.com/user-attachments/assets/63784a06-f77f-453e-9d18-f9cb1a59dae3)
 
 - 모델 아키텍처
+  
   ![모델](https://github.com/user-attachments/assets/7400faa9-ca17-48c2-86c5-7b85ef39a658)
