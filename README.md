@@ -45,6 +45,9 @@ AI 기반 두피 이미지를 분석하여, 현재 탈모 상태를 3가지 기�
 - app.py : Flask 기반 백엔드 서버
 - templates : 사용자 인터페이스를 구성하는 HTML 템플릿
 
+### 🔗 모델 파일 
+[Google Drive](https://drive.google.com/drive/folders/1zja8ApEzK1q6DGCXXx_MC9F5H7PygK5-?usp=sharing)
+
 ---
 
 ### 📊 구현 결과
