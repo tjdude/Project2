@@ -28,6 +28,7 @@
   - YOLOv11 객체 탐지 모델을 적용하여 이미지 내 모공 단위 머리카락 수를 탐지하고 바운딩 박스로 시각화
   - Pytorch를 활용하여 CNN 모델을 설계 및 두피 상태 분류 모델 학습 수행
   - 학습된 모델을 평가한 후 성능이 우수한 모델을 TF-Lite 모델로 경량화하여 패키징
+  - KMeans Segmentation을 활용하여 두피 및 머리카락 면적 수치화
 
 - **애플리케이션 구현**
   - TF-Lite 모델을 라즈베리파이에 탑재
@@ -57,8 +58,9 @@
 - https://youtu.be/4gdbaQSZbZk
  
 ### 📊 결과
+
 - 시스템 아키텍처
-  ![시스템](https://github.com/user-attachments/assets/63784a06-f77f-453e-9d18-f9cb1a59dae3)
+  ![시스템](https://github.com/user-attachments/assets/88b7d52c-7edc-4ef0-9113-08de07647518)
 
 - 모델 아키텍처
   
